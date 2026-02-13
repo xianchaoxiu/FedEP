@@ -1,0 +1,13 @@
+python3 main.py \
+    --algorithm FedRS \
+    --dataset Unsw \
+    --rho1 2 \
+    --rho2 0.0001 \
+    --alpha 0.2 \
+    --beta 0.5 \
+    --num_global_iters 10 \
+    --dim 5 \
+    --clients 100 \
+    --subusers 0.1 \
+    --local_epochs 10 \
+    --threshold 0.000006 \
