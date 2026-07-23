@@ -18,8 +18,8 @@ Please give credits to this paper if this code is useful and helpful for your re
       author    = {Xiu, Xianchao and Huang, Chenyi and Zhang, Wei and Liu, Wanquan},
       journal   = {IEEE Internet of Things Journal}, 
       year      = {2026},
-      volume    = { },
-      number    = { },
-      pages     = { },
+      volume    = {},
+      number    = {},
+      pages     = {},
       publisher = {IEEE}
      }
